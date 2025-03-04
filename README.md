@@ -1,33 +1,20 @@
 ## Hi there 👋
-<h3 align="center">Founder of [Codepear](https://codespear-client.onrender.com/) Lets Talk Anything about flutter/REACT JS REST API services with keen focus on node.js Libraries</h3>
+<h3 align="center">Founder of <a href="https://codespear-client.onrender.com/" target="blank">Codepear</a> Lets Talk Anything about flutter/REACT JS REST API services with keen focus on node.js Libraries</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://twitter.com/@koryegilly5" target="blank"><img src="https://img.shields.io/twitter/follow/@koryegilly5?logo=twitter&style=for-the-badge" alt="@koryegilly5" /></a> </p>
+<p align="left"> <a href="https://x.com/ancientpupy" target="blank"><img src="https://img.shields.io/twitter/follow/@ancientpupy?logo=twitter&style=for-the-badge" alt="@ancientpupy" /></a> </p>
 
 ### 🚀 About Me
-💼 🐦
 - 🔭 I’m a full-stack developer specializing in frontend development.
-- 
+- 📄 I’m currently studying at Moringa schools
+-  I am currently working on [NUTRICON](https://nutricon-client.onrender.com/)
 - 💼 I work under the name **Codespear**, helping organizations design and develop intuitive mobile & web apps.
-- 🛠️ Tech stack: React, JavaScript, Android (Kotlin), Python, Trading Bots, AI & more.
-- ⚡ Check out my projects on [GitHub](https://github.com/k-kibet).
-- Find other projects at @K-kibet
-
-- 🔭 I’m currently working on ...
--  🔭 I’m currently studying at Moringa schools
-- 📄 I am currently working on [ADVERT GO](https://advertgoca.netlify.app/)
+- 🛠️ Tech stack: React, JavaScript, Android (Kotlin), Flutter, Rest APIs & more.
 - 🌱 I’m currently learning **ReactJS,FLUTTER and Python**
-- 👯 I’m looking to collaborate on ...
-- 👯 I’m looking to collaborate on and (https://github.com/CUEA-Innovation-Hub) and user interface of my power app
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 💬 Ask me about **FLUTTER,PHP JAVASCRIPT,HTML,CSS,DART,ANDROID-JAVA,KOTLIN**
-- 📫 How to reach me: ...
+- 💬 Ask me about **FLUTTER,REACT.JS JAVASCRIPT,HTML,CSS, NODE>JS, DART,ANDROID-JAVA,KOTLIN**
 - 📫 How to reach me **kibetg984@gmail.com**
-- 😄 Pronouns: ...
 - 🌍 Know about my experiences [Portfolio](https://kibet-portfolio.onrender.com)
-- 👨‍💻 All of my projects are available at [https://kibet-g-korir.netlify.app/](https://kibet-g-korir.netlify.app/)
-- ⚡ Fun fact **I am social**
-
+- 👨‍💻 Other projects are available at [@K-kibet](https://github.com/k-kibet)
+- ⚡ Fun fact **I am social & Flexible**
 
 <h3 align="left">📫 Connect with Me:</h3>
 <p align="left">
