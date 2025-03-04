@@ -11,7 +11,7 @@
 - 🛠️ Tech stack: React, JavaScript, Android (Kotlin), Flutter, Rest APIs & more.
 - 🌱 I’m currently learning **ReactJS,FLUTTER and Python**
 - 💬 Ask me about **FLUTTER,REACT.JS JAVASCRIPT,HTML,CSS, NODE>JS, DART,ANDROID-JAVA,KOTLIN**
-- 📫 How to reach me **kibetg984@gmail.com**
+- 📫 How to reach me **kkibetkkorir@gmail.com**
 - 🌍 Know about my experiences [Portfolio](https://kibet-portfolio.onrender.com)
 - 👨‍💻 Other projects are available at [@K-kibet](https://github.com/k-kibet)
 - ⚡ Fun fact **I am social & Flexible**
